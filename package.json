@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.code.tencent.com/zhaolongxiang/eslint-config-zhihuo.git"
+    "url": "git+https://github.com/dongzhou-dz/eslint-config-zhihuo.git"
   },
   "keywords": [],
   "author": "zhaolongxiang(longxiang.zhao@zhihuotech.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://git.code.tencent.com/zhaolongxiang/eslint-config-zhihuo.git"
+    "url": "https://github.com/dongzhou-dz/eslint-config-zhihuo/issues"
   },
-  "homepage": "https://git.code.tencent.com/zhaolongxiang/eslint-config-zhihuo.git",
+  "homepage": "https://github.com/dongzhou-dz/eslint-config-zhihuo#readme",
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.4.0",
