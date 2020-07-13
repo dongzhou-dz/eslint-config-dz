@@ -1,22 +1,22 @@
 {
   "name": "eslint-config-zhihuo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Zhihuo ESLint 规则",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dongzhou-dz/eslint-config-zhihuo.git"
+    "url": "git+https://git.code.tencent.com/zhaolongxiang/eslint-config-zhihuo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "zhaolongxiang(longxiang.zhao@zhihuotech.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dongzhou-dz/eslint-config-zhihuo/issues"
+    "url": "https://git.code.tencent.com/zhaolongxiang/eslint-config-zhihuo.git"
   },
-  "homepage": "https://github.com/dongzhou-dz/eslint-config-zhihuo#readme",
+  "homepage": "https://git.code.tencent.com/zhaolongxiang/eslint-config-zhihuo.git",
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.4.0",
