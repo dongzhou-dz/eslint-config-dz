@@ -4,5 +4,6 @@ module.exports = {
     parser: 'babel-eslint',
     ecmaVersion: 2019,
   },
-  extends: ['vue']
+  // extends: [],
+  plugins: ['vue']
 }
