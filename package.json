@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/dongzhou-dz/eslint-config-zhihuo#readme",
   "dependencies": {
+    "babel-eslint": "^10.1.0",
     "eslint": "^7.4.0",
-    "eslint-config-airbnb-base": "^14.2.0"
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-vue": "^6.2.2"
   }
 }
