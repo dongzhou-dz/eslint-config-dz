@@ -1,1 +1,1 @@
-# eslint-config-zhihuo
+# eslint-config-dz
